@@ -1,0 +1,20 @@
+﻿@model ejercico03.Models.Estudiante
+
+
+@using (Html.BeginForm("Index", "Estudiante", FormMethod.Post))
+{
+    <h1>Nombre</h1>
+    @Html.TextBoxFor(m => m.Nombre)
+    @Html.ValidationMessageFor(m => m.Nombre)
+    <br />
+    <br />
+
+    <h1>Edad</h1>
+    @Html.TextBoxFor(m => m.Edad)
+    @Html.ValidationMessageFor(m => m.Edad)
+    <br />
+    <br />
+    <button type="submit">Enviar</button>
+}
+
+            
