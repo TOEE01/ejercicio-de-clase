@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/CTjOs7Zgy+hRRQaLaOl7KoemmaVYW7/XlREH8dx8c8OGToVF8UkOWD34qTtL/Yl6QQaPw7a7KWE0uZjWZTIA==",
+  "dgSpecHash": "6LCNSsBTQxaw5jcQYxUj9F+bi307aLN42UMFSUv2K3YlA7hIfsL5r7PLgX7Dk2PZihyIA21RiZrXVS7eDrDh8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\recin\\source\\repos\\ejercico03\\ejercico03.csproj",
+  "projectFilePath": "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\ejercico03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\recin\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\recin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

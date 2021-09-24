@@ -14,11 +14,11 @@ namespace ejercico03.Controllers
         {
             if (ModelState.IsValid)
             {
-                return View ("Registro");
+                return Redirect ("/Estudiante/Registro");
             }
             else
             {
-                return Redirect("Estudiante/Index");
+                return Redirect("/Estudiante/Index");
             }
             
         }

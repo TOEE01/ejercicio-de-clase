@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\recin\\source\\repos\\ejercico03\\ejercico03.csproj": {}
+    "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\ejercico03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\recin\\source\\repos\\ejercico03\\ejercico03.csproj": {
+    "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\ejercico03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\recin\\source\\repos\\ejercico03\\ejercico03.csproj",
+        "projectUniqueName": "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\ejercico03.csproj",
         "projectName": "ejercico03",
-        "projectPath": "C:\\Users\\recin\\source\\repos\\ejercico03\\ejercico03.csproj",
+        "projectPath": "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\ejercico03.csproj",
         "packagesPath": "C:\\Users\\recin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\recin\\source\\repos\\ejercico03\\obj\\",
+        "outputPath": "C:\\Users\\recin\\Documents\\GitHub\\ejercicio-de-clase\\ejercico03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
