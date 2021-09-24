@@ -3,17 +3,28 @@
 
 @using (Html.BeginForm("Index", "Estudiante", FormMethod.Post))
 {
-    <h1>Nombre</h1>
+    <h2>Nombre</h2>
     @Html.TextBoxFor(m => m.Nombre)
     @Html.ValidationMessageFor(m => m.Nombre)
     <br />
     <br />
 
-    <h1>Edad</h1>
+    <h2>Edad</h2>
     @Html.TextBoxFor(m => m.Edad)
     @Html.ValidationMessageFor(m => m.Edad)
     <br />
     <br />
+    <h2>Tipo de Estudiante</h2>
+    @Html.TextBoxFor(m => m.TipoDeEstudiante)
+    @Html.ValidationMessageFor(m => m.TipoDeEstudiante)
+    <br />
+    <br />
+    <h2>Sexo</h2>
+    @Html.TextBoxFor(m => m.Sexo)
+    @Html.ValidationMessageFor(m => m.Sexo)
+    <br />
+    <br />
+
     <button type="submit">Enviar</button>
 }
 
